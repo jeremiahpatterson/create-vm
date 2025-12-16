@@ -25,6 +25,7 @@ In this tutorial, we will walk through setting up a Windows and Linux virtual ma
 - Step 2 - Create a Windows 10 or 11 Virtual Machine
 - Step 3 - Create a Linux (Ubuntu) VM. Select the previously created Resource Group and Virtual Network. The Virtual Network MUST BE THE SAME.
 - Step 4 - Ensure both VMs are in the same Virtual Network / Subnet
+- Step 5 - The End. 
 
 
 <h2>Configuration Steps</h2>
